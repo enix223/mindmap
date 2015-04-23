@@ -1,1 +1,23 @@
-<map version="0.7.1"><node ID="1" TEXT="MCSE-466"><node ID="2" TEXT="Data&#x20;mining"></node></node></map>
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1429803107590" ID="1" MODIFIED="1429803107590" TEXT="MCSE-466">
+<node CREATED="1429803137706" HGAP="93" ID="ID_1447836735" MODIFIED="1429803199523" POSITION="right" TEXT="Tabular" VSHIFT="-66">
+<node CREATED="1429803164276" HGAP="26" ID="ID_1574714466" MODIFIED="1429805106675" TEXT="Loading data into Tabular" VSHIFT="-65">
+<node CREATED="1429803174021" HGAP="40" ID="ID_810990010" MODIFIED="1429803206363" TEXT="Impersonate" VSHIFT="-63">
+<node CREATED="1429803211534" ID="ID_728488101" MODIFIED="1429803235282" TEXT="Analysis service access Data source"/>
+<node CREATED="1429803256289" ID="ID_15195650" MODIFIED="1429803269289" TEXT="Two options">
+<node CREATED="1429803270750" ID="ID_1747450459" MODIFIED="1429803284675" TEXT="Windows user"/>
+<node CREATED="1429803285193" ID="ID_1986375313" MODIFIED="1429803288797" TEXT="Service account"/>
+</node>
+</node>
+<node CREATED="1429803553001" ID="ID_1533003956" MODIFIED="1429803696157" TEXT="Client side, happened in SSDT, use the current user to access data source"/>
+<node CREATED="1429803697617" ID="ID_217647150" MODIFIED="1429803716650" TEXT="Server side, happened in server, which use the impersonate user to access data source"/>
+<node CREATED="1429804884709" ID="ID_348979190" MODIFIED="1429804893512" TEXT="Sorting data">
+<node CREATED="1429805077085" ID="ID_1776845492" MODIFIED="1429805086421" TEXT="help xVelocity to compress data"/>
+</node>
+</node>
+<node CREATED="1429805092900" ID="ID_560883657" MODIFIED="1429805096354" TEXT="DAX Basic"/>
+</node>
+<node CREATED="1429803142574" ID="ID_31859398" MODIFIED="1429803149646" POSITION="right" TEXT="Multidimension"/>
+</node>
+</map>
